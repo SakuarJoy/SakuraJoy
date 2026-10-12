@@ -4,4 +4,4 @@
 ## Projects
   At the moment I'm focusing on the basics and just practicing!  ( •̀ ω •́ )✧
 ## Tools
-  Visuel Studio Code is my best friend and companion in thus journay!
+  Visuel Studio Code is my best friend and companion in this journey!
